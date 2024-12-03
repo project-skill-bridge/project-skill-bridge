@@ -1,4 +1,4 @@
-# 🌟 NeuroSkills: Empowering Kids with Neurodevelopmental Disorders 🌟
+# 🌟  SkillBridge: Empowering Kids with Neurodevelopmental Disorders 🌟
 
 ![Interactive](https://img.shields.io/badge/Interactive-Training-blue)  
 ![MadeWithLove](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red)  
@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About the Project  
-**NeuroSkills** is a groundbreaking mobile application designed to improve **executive functions**, **everyday skills**, and **vocational abilities** for children with neurodevelopmental disorders.  
+**SkillBridge** is a groundbreaking mobile application designed to improve **executive functions**, **everyday skills**, and **vocational abilities** for children with neurodevelopmental disorders.  
 
 ### 🎯 Key Objectives:
 - **Build Self-Confidence** ✨  
